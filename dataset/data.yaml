@@ -1,0 +1,5 @@
+train: /home/madman/develop/object_detection/dataset/train.txt
+val: /home/madman/develop/object_detection/dataset/val.txt
+
+nc: 1
+names: ['drone']
